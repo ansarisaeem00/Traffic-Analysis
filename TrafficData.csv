@@ -1,0 +1,67 @@
+id,source,destination,distance,delay,Date,time,factor
+1,CST,Colaba,4.8,10,15-11-2019,20:00,Road Closed
+2,CST,Masjid Bandar,1.6,15,15-11-2019,19:45,Road Size
+3,Malabar Hill,Girgaon Chowpatty,3.6,15,15-11-2019,20:22,Time
+4,Regal Cinema,Prabhadevi,11,37,15-11-2019,20:26,Construction
+5,Wadala,Prabhadevi,7.4,26,15-11-2019,20:30,Accident
+6,Mira Road,Kalyan,53,120,15-11-2019,20:36,Accident
+7,Churchgate,Santacruz,20,47,15-11-2019,21:00,Line Indiscipline
+8,Mahim,New Link Rd,17.2,48,15-11-2019,21:10,Line Indiscipline
+9,Sion Koliwada,Goregaon,17,50,15-11-2019,21:12,Social Event
+10,Sion Koliwada,Powai Lake,18.2,42,15-11-2019,21:15,Road Closed
+11,Kurla,Mahakali Caves,8,40,15-11-2019,21:15,Time
+12,Juhu,Amboli,3.1,18,15-11-2019,21:29,Time
+13,Mahim,BKC,6.1,19,15-11-2019,21:30,Road Size
+14,Mahim,Antop Hill,6.3,30,15-11-2019,21:31,Road Closed
+15,Mahim,Matunga,3.6,10,15-11-2019,21:32,Construction
+16,Sion Koliwada,Chembur,5.2,18,15-11-2019,21:33,Area
+17,Sion Koliwada,Vashi,19.3,39,15-11-2019,21:34,Toll
+18,Sakinaka,Andheri,9.6,43,15-11-2019,21:35,Population Density
+19,Mahim,Lokhandwala Complex,24,67,15-11-2019,21:38,Social Event
+20,Mahim,Juhu,7.8,26,15-11-2019,21:39,Road Closed
+21,Matunga,Grant Road,11.4,24,15-11-2019,23:02,Time
+22,Matunga,Ghatkopar,11.6,20,15-11-2019,23:04,Construction
+23,Malad,Gorai creek,8.1,17,15-11-2019,14:23,vehicle density
+24,National Park (Borivali),Vasai Road,44.8,33,15-11-2019,14:26,Toll
+25,Fort,CSTM,0.9,6,15-11-2019,14:27,Closed Road
+26,Andheri,Virar,57.7,54,15-11-2019,14:37,Toll
+27,Panvel,Cst,46,32,15-11-2019,14:37,vehicle density
+28,Thane,Dadar,28,15,15-11-2019,14:40,Toll
+29,Vashi,Cst,27,10,15-11-2019,14:39,vehicle density
+30,Powai Lake,Mira road ,26.9,18,21-11-2019,14:40,Restricted Access road
+31,Cst,Ghansoli,38,15,21-11-2019,14:42,Patholes
+32,Bhiwandi,goregaon,40,20,15-11-2019,14:56,Patholes
+33,Bhiwandi,goregaon,40,20,15-11-2019,14:56,road construction
+34,Dahisar,goregaon,45,10,15-11-2019,15:00,Road Side parking
+35,Andheri,Thane,25,15,15-11-2019,23:32,Accident
+36,Andheri,Thane,25,15,15-11-2019,23:32,Toll
+37,Andheri ,BKC,15,11,15-11-2019,15:04,Traffic Signals
+38,Goregaon,BKC,16,5,15-11-2019,15:05,Traffic Signals
+40,Juhu,Santa Cruz,4.2,6,15-11-2019,15:18,Social Event
+41,Kurar Village,Madh Island,11.9,40,15-11-2019,15:20,vehicle density
+42,Fort ,Mumbai University,20.8,28,15-11-2019,15:21,Bridge Closure
+43,Virar,Bhayandar,42,50,15-11-2019,15:24,vehicle density
+44,Andheri,mindspace(malad),8.3,25,15-11-2019,15:49,Construction 
+45,BKC,Kandivali,21.9,60,15-11-2019,18:00,Time
+46,Manor,Andheri,78,5,17-11-2019,12:42,vehicle density
+47,Andheri,Dadar,70,13,17-11-2019,12:50,Toll
+48,Andheri,Bandra,10,15,17-11-2019,01:19,Road Block
+49,Andheri,Khar,9.1,20,17-11-2019,01:20,Accident
+50,Andheri,Vasai,44,18,17-11-2019,01:43,Construction
+51,Andheri,Meera Road,21,15,17-11-2019,01:53,Construction
+52,Andheri,Sion,18,22,17-11-2019,02:21,Construction
+53,Andheri,Kurla,16,30,17-11-2019,02:23,Road Closed
+54,Virar,Kurla,70,14,17-11-2019,02:30,Accident
+55,Malad,Kharghar,48,30,17-11-2019,02:51,Construction
+56,Bandra,Belapur,38,50,17-11-2019,02:55,Road Closed
+57,Andheri,Nerul,36,10,17-11-2019,02:58,Accident
+58,Manpada,Vikhroli West,19,10,17-11-2019,03:21,Accident
+59,Manpada,Kurla,25,8,17-11-2019,03:25,Accident
+60,Manpada,Nagpada,37,20,17-11-2019,03:29,Toll
+61,Manpada,Borivali,24,30,17-11-2019,03:33,vehicle density
+62,thane,Santacruz,32,20,17-11-2019,03:38,vehicle density
+63,Andheri ,Thane ,22,12,18-11-2019,05:30,vehicle density
+64,Andheri,Malad,13,40,18-11-2019,11:22,Road Closed
+65,Andheri,Nahur,15,20,18-11-2019,11:25,Accident
+66,Andheri,Virar,57.7,54,15-11-2019,14:37,Construction
+67,Manpada,Nagpada,37,20,17-11-2019,03:29,population density
